@@ -13,16 +13,16 @@ global.APIKeys = {
 
 //api
 global.xteam = 'apivproject'
-global.lolhuman = 'yourkey'
+global.lolhuman = 'f739349973322a5575f54c90'
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6285728917285']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = '© Zets'
-global.packname = '© Zetspublic'
+global.ownername = 'Lanaa'
+global.botname = '© Martha'
+global.packname = '© Martha-MD'
 global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
+global.linkyt = 'https://youtube.com/channel/UCh0HcISPLVdfPVMErXdY6rw'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
